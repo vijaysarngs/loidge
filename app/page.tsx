@@ -25,7 +25,7 @@ export default function Home() {
 
     // 🔴 IMPORTANT: Replace this with your HUGGING FACE URL
     // Example: "https://vijayhaiya-ai-background-detector.hf.space/analyze"
-    const API_URL = "https://vijayhaiya/ai-background-detector.hf.space/analyze"; 
+    const API_URL = "https://vijayhaiya-ai-background-detector.hf.space/analyze"; 
 
     try {
       const response = await fetch(API_URL, {
